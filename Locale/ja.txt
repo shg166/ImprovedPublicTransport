@@ -57,7 +57,7 @@ SETTINGS_LINE_DELETION_TOOL_BUTTON_TOOLTIP 選択した路線タイプを全て�
 SETTINGS_LINE_DELETION_TOOL_CONFIRM_TITLE 路線削除を確認
 SETTINGS_LINE_DELETION_TOOL_CONFIRM_MSG 全ての路線を削除します！\n続行しますか？
 STOP_LIST_BOX_ROW_STOP 停車場: #{0}
-STOP_LIST_BOX_ROW_TOOLTIP {0}\n待機中の乗客数: {1}\n\n右クリックでこのストップにジャンプ\nShiftキーを押しながらクリックでズームインします。
+STOP_LIST_BOX_ROW_TOOLTIP {0}\n待機中の乗客数: {1}\n\n右クリックでこの停車場にジャンプ\nShiftキーを押しながらクリックでズームインします。
 STOP_PANEL_SUGGESTED_NAMES_TOOLTIP 自動生成した命名候補のリスト
 STOP_PANEL_REUSE_NAME_TOOLTIP 駅や道路にある停車場に、まとめて名前を設定します。
 STOP_PANEL_WAITING_PEOPLE 待機中の乗客数: {0}
@@ -114,5 +114,5 @@ VEHICLE_SELECTION_REMOVE_ALL 全ての車両を許可された車両リストか
 VEHICLE_SELECTION_AVAILABLE_VEHICLES 使用可能な車両
 VEHICLE_SELECTION_SELECTED_VEHICLES 選択した車両
 VEHICLE_SELECTION_ANY_VEHICLE 全ての車両
-STOP_BUTTON_TOOLTIP {0}\n\nClick to jump to this stop.\nHolding down a shift key when clicking will also zoom in.\nHoling down an alt key when clicking will prevent opening the stop info panel.
-VEHICLE_BUTTON_TOOLTIP {0}\n\nClick to jump to this vehicle.\nHolding down a shift key when clicking will also zoom in.\nHoling down an alt key when clicking will prevent opening the vehicle info panel.
+STOP_BUTTON_TOOLTIP {0}\n\nクリックして停車場にジャンプ\nもしくは、Shiftキーを押しながらクリックでズームインします。\nAltキー + クリックで、停車場の情報パネルを開きません。
+VEHICLE_BUTTON_TOOLTIP {0}\n\nクリックして車両にジャンプ\nもしくは、Shiftキーを押しながらクリックでズームインします。\nAltキー + クリックで、車両の情報パネルを開きません。
